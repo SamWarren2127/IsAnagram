@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Anagram Test App": {
+      "commandName": "Project",
+      "commandLineArgs": "\"racecar\" \"carrace\" \"jar\" \"jam\" \"xx\" \"x\""
+    }
+  }
+}
